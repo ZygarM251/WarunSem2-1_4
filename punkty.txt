@@ -1,0 +1,5 @@
+Punkt x: 1.000000; Punkt y: 2.000000
+Punkt x: 3.000000; Punkt y: 4.000000
+Punkt x: 5.000000; Punkt y: 6.000000
+Punkt x: 7.000000; Punkt y: 8.000000
+Punkt x: 9.000000; Punkt y: 10.000000
